@@ -1,21 +1,15 @@
 ### Hi there, I'm Fiyifoluwa 👋
 
-<!--
-**Fiyifoluwa/Fiyifoluwa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on multiple projects but I am looking forward to taking on more work.
 - 🌱 I’m currently learning the MEN in MERN, some Python.
 - 👯 I’m looking to collaborate on exciting projects.
 - 🤔 I’m looking for help with landing my first full-time job.
 - 📫 How to reach me: <a href="https://linkedin.com/in/FiyiDimeji">LinkedIn</a> | <a href="mailto:fiyifoluwa@outlook.com">Email</a> | <a href="https://instagram.com/fiyifoluwa">Instagram</a> |  <a href="https://twitter.com/fiyi_oladimeji">Twitter</a>
 - ⚡ Fun fact: I have experience working at a pharmacy lol. Also, I believe the problem the world is facing is Lack of Empathy.
--->
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp;I am a front-end developer.\
+💡 &nbsp;I am a front-end developer.
 💬 &nbsp;Feel free to reach out to me for paid and volunteer work. I enjoy talking about everything Tech.\
 
 ### 🛠 &nbsp;Tech Stack
