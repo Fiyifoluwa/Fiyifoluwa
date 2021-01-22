@@ -6,7 +6,7 @@
 - 👯 I’m looking to collaborate on exciting projects.
 - 🤔 I’m looking for help with landing my first full-time job.
 - 📫 How to reach me: <a href="https://linkedin.com/in/FiyiDimeji">LinkedIn</a> | <a href="mailto:fiyifoluwa@outlook.com">Email</a> | <a href="https://instagram.com/fiyifoluwa">Instagram</a> |  <a href="https://twitter.com/fiyi_oladimeji">Twitter</a>
-- ⚡ Fun fact: I have experience working at a pharmacy lol. Also, I believe the problem the world is facing is Lack of Empathy.
+- ⚡ I have worked as an events manager, a model, a pharmacy technician ;-)
 - 💬 &nbsp;Feel free to reach out to me for paid and volunteer work. I enjoy talking about everything Tech.
 
 ### 🛠 &nbsp;Tech Stack
@@ -19,8 +19,3 @@
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-
-<p align="center">
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Fiyifoluwa&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
